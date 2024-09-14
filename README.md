@@ -1,1 +1,1 @@
-# Harry-Potter-RAG-Q-A
+# Harry-Potter-RAG-Q&A
