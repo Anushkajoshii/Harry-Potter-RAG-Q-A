@@ -1,0 +1,13 @@
+prefix=/Users/anushkajoshi/Desktop/21BAI10434_ML/venv
+exec_prefix=/Users/anushkajoshi/Desktop/21BAI10434_ML/venv
+libdir=/Users/anushkajoshi/Desktop/21BAI10434_ML/venv/lib
+sharedlibdir=/Users/anushkajoshi/Desktop/21BAI10434_ML/venv/lib
+includedir=/Users/anushkajoshi/Desktop/21BAI10434_ML/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

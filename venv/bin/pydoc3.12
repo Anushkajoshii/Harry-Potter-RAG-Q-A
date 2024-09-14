@@ -1,0 +1,5 @@
+#!/Users/anushkajoshi/Desktop/21BAI10434_ML/venv/bin/python3.12
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
