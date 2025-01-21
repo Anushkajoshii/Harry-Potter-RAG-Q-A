@@ -14,7 +14,6 @@ This project showcases an end-to-end Document Q&A application using Retrieval-Au
 3. Install the required packages by running the command "pip install -r requirements.txt" in the terminal.
 4. Run the command "streamlit run app.py" to start the application.
 
-
-<img width="1512" alt="Screenshot 2024-09-15 at 10 43 41 AM" src="https://github.com/user-attachments/assets/83c2b31b-0e34-4be8-aa6d-84264a5498b4">
-<img width="1512" alt="Screenshot 2024-09-15 at 10 45 01 AM" src="https://github.com/user-attachments/assets/e17a5e90-231d-43f3-a3d6-35ffe6c369dd">
-<img width="1512" alt="Screenshot 2024-09-15 at 10 45 32 AM" src="https://github.com/user-attachments/assets/a687a94c-9fae-46c0-b95f-5fef422826ba">
+<img width="1512" alt="1" src="https://github.com/user-attachments/assets/3adf5cc2-45a4-4459-af6f-57f8c12c151c" />
+<img width="1512" alt="2" src="https://github.com/user-attachments/assets/1e00c5a1-4ade-4aa0-8ec6-6ad886685b44" />
+<img width="1512" alt="3" src="https://github.com/user-attachments/assets/1275bf2e-d1f3-46b4-b547-be6ddb42f480" />
