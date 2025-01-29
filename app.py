@@ -84,10 +84,10 @@ st.markdown(
         bottom: 0;
         left: 0;
         right: 0;
-        padding: 10px;
+        padding: 30px;
         background-color: #f1f1f1;
         text-align: center;
-        font-size: 12px;
+        font-size: 22px;
         color: #555;
     }
     </style>
