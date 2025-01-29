@@ -74,3 +74,25 @@ if prompt1:
         for i, doc in enumerate(response.get("context", [])):
             st.write(doc.page_content)
             st.write("-------XXXXXXXXXXXXXXXXX-------")
+
+# Footer section
+st.markdown(
+    """
+    <style>
+    .footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 10px;
+        background-color: #f1f1f1;
+        text-align: center;
+        font-size: 12px;
+        color: #555;
+    }
+    </style>
+    <div class="footer">
+        Made by Anushka Joshi
+    </div>
+    """, unsafe_allow_html=True
+)
